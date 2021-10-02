@@ -1,0 +1,17 @@
+{
+  "name": "rwlog",
+  "version": "1.0.0",
+  "description": "iqbal test assignment",
+  "main": "./bin/index.js",
+  "keywords": [
+    "cli"
+  ],
+  "author": "rizkyiqbal",
+  "license": "ISC",
+  "bin": {
+    "rwlog": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
